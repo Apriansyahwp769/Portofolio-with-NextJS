@@ -2,24 +2,24 @@
 🔗 Live Demo: https://apriansyahwp769.vercel.app
 
 🧠 Teknologi yang Digunakan
-Next.js — Framework React untuk SSR & SSG
+-Next.js — Framework React untuk SSR & SSG
 
-Tailwind CSS — Styling cepat dan responsif
+-Tailwind CSS — Styling cepat dan responsif
 
-React Icons — Untuk ikon-ikon modern
+-React Icons — Untuk ikon-ikon modern
 
-Vercel — Untuk deployment hosting secara gratis dan cepat
+-Vercel — Untuk deployment hosting secara gratis dan cepat
 
 🖥️ Fitur Utama
-Landing Page profesional
+-Landing Page profesional
 
-Tentang Saya (About) dengan deskripsi singkat dan skillset
+-Tentang Saya (About) dengan deskripsi singkat dan skillset
 
-Project Showcase untuk menampilkan beberapa project
+-Project Showcase untuk menampilkan beberapa project
 
-Halaman Kontak yang langsung terhubung ke email melalui form
+-Halaman Kontak yang langsung terhubung ke email melalui form
 
-Responsif dan mobile-friendly
+-Responsif dan mobile-friendly
 
 📄 Penjelasan Singkat
 Website ini saya buat sebagai portofolio pribadi untuk memperkenalkan siapa saya, apa yang saya kuasai, dan project apa saja yang pernah saya kerjakan. Dibangun dengan Next.js agar memiliki performa tinggi dan SEO friendly, serta menggunakan Tailwind CSS agar proses styling lebih efisien dan bersih.
